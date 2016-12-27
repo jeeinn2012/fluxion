@@ -359,8 +359,8 @@ DIALOG_WEB_LENGHT_MAX_ARA="يجب أن تكون كلمة المرور أقل م�
 DIALOG_WEB_DIR_ARA="rtl"
 
 #CN
-DIALOG_WEB_INFO_CN="为了您的安全考量, 请输入 WPA 密码以重新连接网络"
-DIALOG_WEB_INPUT_CN="输入您的WPA密码:"
+DIALOG_WEB_INFO_CN="为了您的安全考量, 请输入 Wi-Fi 密码以重新连接网络"
+DIALOG_WEB_INPUT_CN="输入您的Wi-Fi密码:"
 DIALOG_WEB_SUBMIT_CN="连接"
 DIALOG_WEB_ERROR_CN="出错了: 您输入的密码 错误!"
 DIALOG_WEB_OK_CN="您的无线网络将会在短时间内恢复"
